@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Lugares para conhecer na Europa!</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h1>Lugares para conhecer na Europa!</h1>
+    
+    <div class="card">
+        <img src="torre-eiffel-paris.jpg" alt="torre-eiffel-paris" style="width: 300px;px">
+        <div class="container">
+          <h2><b>Torre Eiffel – França</b></h2>
+          <p>A Torre Eiffel é um ponto turístico obrigatório em Paris, França. A sua construção foi em 1889 para celebrar os 100 anos da Revolução Francesa, e tem 325 metros de altura e 1.665 degraus.</p>
+          <p>Além de uma vista incrível que pode ser apreciada de diferentes maneiras, há vários restaurantes em torno da Torre Eiffel para aproveitar a culinária do país.</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="Atenas-Grecia.jpg" alt="Atenas-Grecia" style="width: 300px;px">
+        <div class="container">
+          <h2><b>Atenas – Grécia</b></h2>
+          <p>Atenas é um ponto turístico que tem o seu destaque por ter vários lugares arquitetônicos, como o Museu da Acrópole que possui um acervo de achados arqueológicos e esculturas dedicadas ao culto de Atena e Ártemis.</p>
+    
+          <p>Outro lugar que também é dedicado à deusa grega Atena é o templo Partenon, construído no século V a.C.</p>
+              
+          <p>E não podemos deixar de mencionar o Templo de Zeus Olímpico, que é a ruína monumental de um antigo templo dedicado a Zeus.</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <img src="coliseu-roma.jpg" alt="Coliseu-Roma" style="width: 300px;px">
+        <div class="container">
+          <h2><b>Coliseu de Roma – Itália</b></h2>
+          <p>O Coliseu de Roma ou Anfiteatro Flaviano é um dos principais pontos turísticos da Itália e um dos monumentos mais famosos do mundo.</p>
+
+          <p>Com uma construção que se iniciou no ano de 72 d.C e serviu como palco para gladiadores que lutavam entre si, ele atrai pelo menos 4 milhões de turistas todos os anos.</p>
+      
+          <p>O Coliseu de Roma tinha capacidade para 70 mil pessoas e oferecia espetáculos para distrair a população.</p>
+        </div>
+    </div>
+</body>
+</html>
